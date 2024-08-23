@@ -1,1 +1,3 @@
 # old_bike
+
+This is a linear regression model that basically predicts prices of the old bikes... User needs to give some data and once our algorithm studies/analyses the given data by the user then it predicts the price of that bike... It is a linear regression model....
