@@ -1,0 +1,9 @@
+numpy
+pandas
+scilit-learn
+sqlite3
+mysql-connector-python
+flask
+joblib
+seaborn
+matplotlib
